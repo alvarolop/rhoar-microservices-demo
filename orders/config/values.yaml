@@ -1,6 +1,6 @@
 simple-java-service:
   applicationName: orders
-  version: "d83e34e"
+  version: "816cdb7"
   port: 8080
   targetPort: 8080
   deploymentStrategy:
